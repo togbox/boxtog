@@ -1,9 +1,9 @@
 public with sharing class EclipseGitDemo {
 	
 	//some comments
-	public void EclipseGitDemo() {
+	public integer EclipseGitDemo() {
 		integer one = 1;
-		return;
+		return one;
 	}
     
 }
