@@ -2,7 +2,6 @@
 public class TestEclipseGitDemo {
     
     static testMethod void callConstructor() {
-    	integer one = new EclipseGitDemo();
-    	System.assertEquals(one, 1);
+    	EclipseGitDemo one = new EclipseGitDemo();
     }
 }
