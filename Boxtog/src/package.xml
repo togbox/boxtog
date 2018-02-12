@@ -28,9 +28,5 @@
         <members>*</members>
         <name>StaticResource</name>
     </types>
-    <types>
-        <members>*</members>
-        <name>Flow</name>
-    </types>
     <version>38.0</version>
 </Package>
